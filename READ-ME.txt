@@ -1,11 +1,36 @@
-  =>  Template Name    : PET SHOP - Pet Shop Website Template
+# ✨ PET SHOP ✨
 
-  =>  Template Link    : https://htmlcodex.com/pet-shop-website-template
+This is a web-based application developed for Pets related based website in India.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+### This web-based pet application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-  =>  Template Author  : HTML Codex
 
-  =>  Author Website   : https://htmlcodex.com
+**Project Link** - https://divya0810.github.io/finalproject/
+**project demo video link** - https://drive.google.com/file/d/1_sC96bdOS-EtiwWjakfdLJhaAnBRsLNR/view
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+## Azure technologies used for Project
+- Static web apps
+- Health bot
+
+## Features and Functionalities 😃
+
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including Home, About Us, Contact, Menu, pet health topics, care services, health related information, etc.
+- features like pet boarding, pet grooming, pet training, pet feeding, pet treatment, food products for pet, pets care professionals.
+- Included the feedback Survey form to increase the scope of improvement 
+
+## Screenshots
+
+
+
+
+### Tech Stack
+•	Azure (Hosting)
+•	HTML
+•	CSS
+•	JavaScript
+
+
+
