@@ -27,7 +27,6 @@ This is a web-based application developed for Pets related based website in Indi
 
 
 
-
 ### Tech Stack
 •	Azure (Hosting)
 •	HTML
