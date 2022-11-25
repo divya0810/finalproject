@@ -26,13 +26,20 @@ This is a web-based application developed for Pets related based website in Indi
 ![Screenshot (16)](https://user-images.githubusercontent.com/112797178/204017344-e64f95cc-80f4-4693-a8db-e9debde0c39b.png)
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/112797178/204018643-88bcbca0-cadb-45da-8241-29d2a0867e30.png)
+
 ![Screenshot (18)](https://user-images.githubusercontent.com/112797178/204018683-1aaf9119-7224-4782-9536-c2b376afac73.png)
+
 ![Screenshot (19)](https://user-images.githubusercontent.com/112797178/204018713-bd41e7b3-1726-4be2-8e78-8326181006fa.png)
+
 ![Screenshot (20)](https://user-images.githubusercontent.com/112797178/204018728-59e91dda-535e-46cb-8bcc-71cca0f5a68b.png)
+
 ![Uploading Screensh![Screenshot (22)](https://user-images.githubusercontent.com/112797178/204018759-44a82069-1c7f-4140-87c5-d2682468a0e4.png)
+
 ot (21).png…]()
 ![Screenshot (23)](https://user-images.githubusercontent.com/112797178/204018770-b0be554a-cf07-4b19-8d7e-4f07cc750c66.png)
+
 ![Screenshot (24)](https://user-images.githubusercontent.com/112797178/204018789-8a359f4e-6e54-46c4-94a7-378eec553bbe.png)
+
 ![Screenshot (25)](https://user-images.githubusercontent.com/112797178/204018803-24dc7caf-351b-428f-b85e-ff564c55164f.png)
 
 
